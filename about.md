@@ -8,7 +8,7 @@ layout: page
 
 I'm a graduate student and Joubin-Selig Scholar in International Affairs at [Carleton](https://carleton.ca/npsia/), and my goal is to work with government on the challenges posed by state-of-the-art neural networks.
 
-I received analytical training in philosophy at Oxford, and I gained quantitative skills and technical knowledge from five years as a professional programmer. 
+I received analytical training in philosophy at Oxford, and I gained quantitative skills and technical knowledge from five years working as a programmer at tech startups. 
 
 I am fluent in Python, I have built several small neural networks, and I have a reasonable understanding of the attention-based transformer architectures of large language models (LLMs) like ChatGPT. I have yet to go through [Attention Is All You Need](https://arxiv.org/abs/1706.03762) line-by-line alongside the [PyTorch](https://pytorch.org/) transformer implementation, but it's on my to do list. 
 
