@@ -1,11 +1,12 @@
-with (import <nixpkgs> {});
+{ pkgs ? import <nixpkgs> { } }:
 let
-  gems = bundlerEnv {
+  gems = pkgs.bundlerEnv {
     name = "homepage";
-    inherit ruby;
     gemdir = ./.;
+    gemConfig = pkgs.defaultGemConfig;
   };
-in stdenv.mkDerivation {
+in
+pkgs.stdenv.mkDerivation {
   name = "homepage";
-  buildInputs = [gems ruby];
+  buildInputs = [ gems gems.wrappedRuby ];
 }
