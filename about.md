@@ -18,6 +18,6 @@ I'm unsure of how I can be most helpful with AI, but one possibility is to incre
 
 I believe that some grasp of how neural networks are built is necessary to understand the ways they may not act as intended, and that this understanding is crucial to many, perhaps most, major decisions regarding AI that government will face. I also believe governments require sufficient technical know-how to critically assess researchers' opinions and to form their own conclusions.
 
-Unrelatedly, I don't use social media, so this website is one of the only ways people from my past can reconnect with me. In the interests of showing up when they search for me on the internet, here are some places I've been: International Guitar Festival (IGF), St Bartholomew's School in Newbury (St Bart's), Mansfield College, University of Oxford, Busbud, Procurify, the Choir of the Church of St. Andrew and St. Paul (A&P).
+Unrelatedly, I don't use social media, so this website is one of the only ways people from my past can reconnect with me. In the interests of showing up when they search for me on the internet, here are some places I've been: International Guitar Festival (IGF), St Bartholomew's School in Newbury (St Bart's), The Catweazle Club, Mansfield College, Oxford University, Busbud, Procurify, the Choir of the Church of St. Andrew and St. Paul (A&P).
 
 If in doubt, please send me a message!
