@@ -33,6 +33,12 @@ Most people's conscious experiences of statistics are unfortunately going to hav
 
 Confidence intervals in which we explain why they work even if you don't know the population stdev. This was actually new material to me and it didn't intuitively make sense at all why the maths works if you don't have the population stdev. I will be working through youtube videos, brilliant wiki/wikipedia, mit opencourseware until it at least feels like it works, even if I don't understand the proof.
 
+My brief take on how you can still have the correct confidence interval even if you use sample SD when calculating the SEM:
+
+If there's no direction in which the sample SD/population SD difference is biased (i.e. the sample SD is an unbiased estimate of the population SD, which we can mathematically prove is true), the CI will widen as often as it narrows. This means that even though, if you knew you were erring on the "wide" side, you could know your CI was higher than 95% for z* = 1.96, you don't know if you're erring on the "wide" or the "narrow" side. All you know is that you err in one direction as much as you err in the other direction, which means your probability remains unchanged at 95%.
+
+Also I found this video helpful: https://www.youtube.com/watch?v=soZv_KKax3E
+
 ---
 
 I think it would be useful to spend some time on how we're using maths differently to middle school. At least for me, I used to conceive of maths as abstract truths, but now I think of it more as a 'weird highly-precise form of thinking' that I can apply to concrete subjects. I find this an important and valuable adjustment to have made, e.g. the reason we square and use variance is it works well for our purposes (it gives you positive values, and later lets you calculate unbiased population variance from a sample). "We do things this way because it's useful" vs "it's just obvious that e.g. saying 2 + 2 = 4 is the correct way to do things" is a profound and important idea to grok, at least for me, and I wonder if other students would perhaps have benefited from a couple of weeks so they can think through this idea as well. It has given me a deeper appreciation for math, it's beautiful to me which inspires effort and engagement, and i feel like i have a better understanding of how to apply math to real world problems and will notice more opportunities to do so, which is extremely useful!
