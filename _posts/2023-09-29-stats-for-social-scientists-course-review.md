@@ -29,6 +29,8 @@ Two reasons I think it's important to take a lot of time over the central limit 
 
 Most people's conscious experiences of statistics are unfortunately going to have been people using them to lie or justify lame educational policy. People are likely coming into this highly skeptical of the subject. If you rush them through something like this, they may well assume that stats is just garbage and based on sketchy assumptions, explaining their prior negative conscious experiences of it. I think this needs to be intuitive, and the textbook and lectures rushed through the CLT in less than a page.
 
+Seeing as the next week was just correlation/causation and testing sample vs population, I feel extra conviction more time should have been given to this.
+
 ---
 
 Confidence intervals in which we explain why they work even if you don't know the population stdev. This was actually new material to me and it didn't intuitively make sense at all why the maths works if you don't have the population stdev. I will be working through youtube videos, brilliant wiki/wikipedia, mit opencourseware until it at least feels like it works, even if I don't understand the proof.
