@@ -47,6 +47,10 @@ I think it would be useful to spend some time on how we're using maths different
 
 ---
 
+Measures of association was a repeat of CLT theorem week in that it was preceded by a very gentle week and then a lot of math was thrown at us. Unfortunately I was not familiar with the math this time and haven't had a chance to gain a meaningful understanding of it.
+
+---
+
 
 [1]: https://docs.haskellstack.org/en/stable/README/
 [2]: https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
