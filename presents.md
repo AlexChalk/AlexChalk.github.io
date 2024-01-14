@@ -20,6 +20,10 @@ I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Ca
 
 Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card](bandcamp-gift-card-link) on their site then you can help me find and enjoy new music.
 
+#### Cordless Vacuum
+
+If you are feeling very generous (or coordinating with others), I'd really like a cordless stick vacuum. I mostly trust [The Wirecutter](wirecutter-cordless-vacuum-link) for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot](ryobi-link)—please get the model that comes with a charger.
+
 #### Frank and Oak
 
 Frank and Oak is a Montréal-based clothing company. I like their clothes, but I would prefer [gift cards](frank-and-oak-link) so that I can pick out what I want for myself.
@@ -36,6 +40,12 @@ I am a programmer with a very nerdy keyboard:
 
 Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit](keycaps-link). Weird and colourful keycaps that do not necessarily depict letters are preferred!
 
+#### Machine Learning
+
+For computer nerds only. I'm looking for resources to level up in machine learning, and, if you happen to be an expert in this area, I'd be interested in anything you can personally vouch for. One idea I had was to ask for credit to rent cloud-based GPUs, but I haven't found a company that sells gift cards for this.
+
+Thank you for being interested in buying me a present!
+
 [present]: {{"/assets/images/presents/present.webp" | absolute_url}}
 [camellia-sinensis-link]: https://camellia-sinensis.com/
 [bandcamp-gift-card-link]: https://bandcamp.com/gift_cards
@@ -43,9 +53,5 @@ Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make
 [frank-and-oak-link]: https://ca.frankandoak.com/products/egift-card
 [keyboard]: {{"/assets/images/uhk/uhk.jpg" | absolute_url}}
 [keycaps-link]: https://www.reddit.com/r/MechanicalKeyboards/wiki/keycapsellers/
-
-#### Machine Learning
-
-For computer nerds only. I'm looking for resources to level up in machine learning, and, if you happen to be an expert in this area, I'd be interested in anything you can personally vouch for. One idea I had was to ask for credit to rent cloud-based GPUs, but I haven't found a company that sells gift cards for this.
-
-Thank you for being interested in buying me a present!
+[wirecutter-cordless-vacuum-link]: https://www.nytimes.com/wirecutter/reviews/best-cordless-stick-vacuum
+[ryobi-link]: https://www.homedepot.ca/product/ryobi-18v-one-hp-brushless-cordless-stick-vacuum-kit-with-4-0-ah-hp-battery-and-charger/1001726800
