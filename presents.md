@@ -14,23 +14,23 @@ As I am notoriously difficult to buy presents for, I've decided to help you out 
 
 #### Camellia Sinensis
 
-I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Canada, so you can order me some tea on [their website](camellia-sinsensis-link) and get it delivered to my address. Please steer clear of smoky varieties like Lapsang Souchong, but I'll drink any other tea you send me.
+I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Canada, so you can order me some tea on [their website][camellia-sinensis-link] and get it delivered to my address. Please steer clear of smoky varieties like Lapsang Souchong, but I'll drink any other tea you send me.
 
 #### Bandcamp
 
-Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card](bandcamp-gift-card-link) on their site then you can help me find and enjoy new music.
+Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card][bandcamp-gift-card-link] on their site then you can help me find and enjoy new music.
 
 #### Cordless Vacuum
 
-If you are feeling very generous (or coordinating with others), I'd really like a cordless stick vacuum. I mostly trust [The Wirecutter](wirecutter-cordless-vacuum-link) for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot](ryobi-link)—please get the model that comes with a charger.
+If you are feeling very generous (or coordinating with others), I'd really like a cordless stick vacuum. I mostly trust [The Wirecutter][wirecutter-cordless-vacuum-link] for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot][ryobi-link]—please get the model that comes with a charger.
 
 #### Frank and Oak
 
-Frank and Oak is a Montréal-based clothing company. I like their clothes, but I would prefer [gift cards](frank-and-oak-link) so that I can pick out what I want for myself.
+Frank and Oak is a Montréal-based clothing company. I like their clothes, but I would prefer [gift cards][frank-and-oak-link] so that I can pick out what I want for myself.
 
 #### Socks
 
-Socks are always welcome, and I am partial to a pricey brand called Darn Tough. I'm a men's size medium, and my preferred sock style is micro crew. You can choose me a nice (but subtle) design and ship it to me from [their website](darn-tough-link).
+Socks are always welcome, and I am partial to a pricey brand called Darn Tough. I'm a men's size medium, and my preferred sock style is micro crew. You can choose me a nice (but subtle) design and ship it to me from [their website][darn-tough-link].
 
 #### Keycaps
 
@@ -38,7 +38,7 @@ I am a programmer with a very nerdy keyboard:
 
 ![photo-of-keyboard][keyboard]
 
-Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit](keycaps-link). Weird and colourful keycaps that do not necessarily depict letters are preferred!
+Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit][keycaps-link]. Weird and colourful keycaps that do not necessarily depict letters are preferred!
 
 #### Machine Learning
 
