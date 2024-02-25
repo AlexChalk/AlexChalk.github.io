@@ -20,6 +20,10 @@ I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Ca
 
 Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card][bandcamp-gift-card-link] on their site then you can help me find and enjoy new music.
 
+#### Bonsai Tree
+
+My bonsai did not survive our recent move, so I'm looking for a new one. I'd like something with a wide trunk that's good for beginners and not fussy about lighting. I've been looking at a Ficus Bonsai (like my last one) or a Chinese Elm.
+
 #### Cordless Vacuum
 
 If you are feeling very generous (or coordinating with others), I'd really like a cordless stick vacuum. I mostly trust [The Wirecutter][wirecutter-cordless-vacuum-link] for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot][ryobi-link]—please get the model that comes with a charger.
