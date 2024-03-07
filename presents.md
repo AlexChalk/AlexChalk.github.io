@@ -16,6 +16,11 @@ As I am notoriously difficult to buy presents for, I've decided to help you out 
 
 I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Canada, so you can order me some tea on [their website][camellia-sinensis-link] and get it delivered to my address. Please steer clear of smoky varieties like Lapsang Souchong, but I'll drink any other tea you send me.
 
+#### Books
+
+I'm very picky about what I read, so trying to choose a book for me is probably not a good idea. However, I'll definitely read anything from the list below:
+- Study of Counterpoint: From Johann Joseph Fux's Gradus ad Parnassum—Translated and edited by Alfred Mann 
+
 #### Bandcamp
 
 Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card][bandcamp-gift-card-link] on their site then you can help me find and enjoy new music.
