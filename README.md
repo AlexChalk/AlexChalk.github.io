@@ -5,3 +5,6 @@ To run:
 - `nix-shell`
 - `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 - or `bundle exec jekyll build`
+
+To update from upstream:
+- `git merge --no-ff upstream/gh-pages`
