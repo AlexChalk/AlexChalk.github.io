@@ -4,7 +4,7 @@ layout: post
 date: 2021-11-12
 headerImage: false
 projects: true
-hidden: true
+hidden: false
 tag:
 - mac
 - tmux
