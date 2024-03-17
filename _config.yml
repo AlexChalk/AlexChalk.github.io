@@ -117,6 +117,8 @@ exclude:
     "README.md",
     "Gemfile",
     "Gemfile.lock",
+    "gemset.nix",
+    "CONTRIBUTION.md",
     "FAQ.md",
     "vendor",
   ]
