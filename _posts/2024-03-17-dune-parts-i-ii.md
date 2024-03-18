@@ -11,7 +11,7 @@ author: alexchalk
 description: Thoughts on Dune (Parts I and II) (Book and Film Spoilers)
 ---
 
-There was a lot I really enjoyed in both films, especially the desert scenes in part one and the astonishing sandworm chase. I also did not expect a Harkonnen being blasted into the side of a space-combine-harvester by a rocket launcher to look so elegant.
+There was a lot I really enjoyed in both films, especially the desert scenes in part one and the sandworm chase. I also did not expect a Harkonnen being blasted into the side of a space-combine-harvester by a rocket launcher to look so elegant.
 
 I thought the desert action sequences in part two were directed to make the gravity look slightly lighter than on earth—it was impressive.
 
