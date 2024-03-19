@@ -17,7 +17,7 @@ I thought the desert action sequences in part two were directed to make the grav
 
 Why am I ultimately a bit disappointed? Partly, I think, because despite splitting the book in two, the plot development still felt rushed to me—I'd probably have preferred a Dune trilogy. I'm also unfairly comparing the films to the very high bar Denis Villeneuve set with Blade Runner 2049.
 
-However, most of all, I think the adaptation didn't capture what I found most tragic about the novel. The ending of the book hit me like a tonne of bricks—the Harkonnens were *so* evil (much, much more evil than in the films), and how many of us would have been sufficiently humble—and perceptive!—to choose death and Harkonnen victory over the decisions Paul made? I found him deeply sympathetic in spite of the appalling consequences of his actions.
+However, most of all, I think the adaptation didn't capture what I found most tragic about the novel. The ending of the book hit me like a tonne of bricks—the Harkonnens were *so* evil (much, much more evil than in the films), and how many of us would have been sufficiently humble—and perceptive!—to choose death and Harkonnen victory over the decisions Paul made? I found him sympathetic in spite of the appalling consequences of his actions.
 
 But in the films, Paul and Lady Jessica both drink some worm bile and turn into Anakin Skywalker. I felt no sympathy for either of them, they were just straightforwardly evil. I think the tragic choice of the films was different—it was Chani's decision to save Paul despite knowing she was playing into his mother's plans—but this didn't carry the same weight as Paul's arc in the book for me.
 
