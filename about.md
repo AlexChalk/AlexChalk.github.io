@@ -6,7 +6,7 @@ layout: page
 
 ### About Me
 
-I'm a graduate student, Joubin-Selig Scholar, and Ontario Graduate Scholar in International Affairs at [Carleton](https://carleton.ca/npsia/). My goal is to work with government on the challenges posed by state-of-the-art neural networks.
+I'm a graduate student, departmental scholar, Joubin-Selig Scholar, and Ontario Graduate Scholar in International Affairs at [Carleton](https://carleton.ca/npsia/). My goal is to work with government on the challenges posed by state-of-the-art neural networks.
 
 I received analytical training in philosophy at Oxford, and I gained quantitative skills and technical knowledge from five years working as a programmer at tech startups. 
 
