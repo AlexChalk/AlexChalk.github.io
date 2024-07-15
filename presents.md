@@ -24,9 +24,9 @@ Bandcamp is my preferred choice for listening to music. You have to pay for reco
 
 My bonsai did not survive our recent move, so I'm looking for a new one. I'd like something with a wide trunk that's good for beginners and not fussy about lighting. I've been looking at a Ficus Bonsai (like my last one) or a Chinese Elm.
 
-#### Cordless Vacuum
+#### Machine Learning Computer
 
-If you are feeling very generous (or coordinating with others), I'd really like a cordless stick vacuum. I mostly trust [The Wirecutter][wirecutter-cordless-vacuum-link] for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot][ryobi-link]—please get the model that comes with a charger.
+I'm working on machine learning, but renting cloud-based GPUs is expensive, and the companies doing it don't sell gift cards. If you're feeling very generous (or coordinating with others), I'm therefore looking for a computer with a discrete GPU to use as a server for ML training runs. However, it's best to contact me if you're interested in helping with this, as it's important to make sure I get the right device.
 
 #### Frank and Oak
 
@@ -44,9 +44,9 @@ I am a programmer with a very nerdy keyboard:
 
 Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit][keycaps-link]. Weird and colourful keycaps that do not necessarily depict letters are preferred!
 
-#### Machine Learning
+#### Cordless Vacuum
 
-For computer nerds only. I'm looking for resources to level up in machine learning, and, if you happen to be an expert in this area, I'd be interested in anything you can personally vouch for. One idea I had was to ask for credit to rent cloud-based GPUs, but I haven't found a company that sells gift cards for this.
+I'd like a cordless stick vacuum. I mostly trust [The Wirecutter][wirecutter-cordless-vacuum-link] for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot][ryobi-link]—please get the model that comes with a charger.
 
 Thank you for being interested in buying me a present!
 
