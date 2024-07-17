@@ -12,7 +12,7 @@ I received analytical training in philosophy at Oxford (First Class Honours), an
 
 I am fluent in Python, I have completed Part I of fast.ai's resources on [Practical Deep Learning](https://course.fast.ai/), and I'm now working through Part II. Once I've completed Part II, I should be able to implement cutting-edge machine learning research papers from scratch. I have also completed a previous iteration of [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) with Andrew Ng, and I've done a deep-dive into the transformer architectures used by large language models (LLMs) like ChatGPT. Finally, I have spent time with researchers at [Mila](https://mila.quebec/) (informally), and I remain in touch with the institution.
 
-I am interested in improving communication between machine learning researchers and policymakers. For example, I suspect that both lack of understanding in current technical research and implications of the rate of progress in AI could be better communicated to governments by researchers.
+I am interested in improving communication between machine learning researchers and policymakers. For example, I suspect that both lack of understanding in current technical research and implications of the rate of progress in AI could be better communicated by researchers.
 
 For policymakers, I believe that some grasp of how neural networks are trained is helpful to understand the ways they may not act as intended, and that this understanding is crucial to many, perhaps most, major decisions regarding AI that government will face. I also believe governments require sufficient technical know-how to critically assess researchers' opinions and to form their own conclusions.
 
