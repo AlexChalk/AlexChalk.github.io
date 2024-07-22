@@ -42,7 +42,7 @@ I am a programmer with a very nerdy keyboard:
 
 ![photo-of-keyboard][keyboard]
 
-Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit][keycaps-link]. Weird and colourful keycaps that do not necessarily depict letters are preferred!
+Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit][keycaps-link]. Weird and colourful keycaps that do not necessarily depict letters are preferred! These Lord of the Rings keycaps (the hardcore versions) are not OEM profile but they both [look][dwarven-keycaps-link] [amazing][elven-keycaps-link].
 
 #### Cordless Vacuum
 
@@ -59,3 +59,5 @@ Thank you for being interested in buying me a present!
 [keycaps-link]: https://www.reddit.com/r/MechanicalKeyboards/wiki/keycapsellers/
 [wirecutter-cordless-vacuum-link]: https://www.nytimes.com/wirecutter/reviews/best-cordless-stick-vacuum
 [ryobi-link]: https://www.homedepot.ca/product/ryobi-18v-one-hp-brushless-cordless-stick-vacuum-kit-with-4-0-ah-hp-battery-and-charger/1001726800
+[dwarven-keycaps-link]: https://drop.com/buy/drop-the-lord-of-rings-mt3-dwarvish-keycap-set?defaultSelectionIds=968646
+[elven-keycaps-link]: https://drop.com/buy/drop-the-lord-of-the-rings-mt3-elvish-keycap-set?defaultSelectionIds=964666
