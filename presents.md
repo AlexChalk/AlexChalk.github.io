@@ -16,17 +16,6 @@ As I am notoriously difficult to buy presents for, I've decided to help you out 
 
 I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Canada, so you can order me some tea on [their website][camellia-sinensis-link] and get it delivered to my address. Please steer clear of smoky varieties like Lapsang Souchong, but I'll drink any other tea you send me.
 
-#### Pokemon Holo Jungle/Fossil Cards
-
-{:refdef: style="text-align: center;"}
-![photo-of-dragonite][dragonite]
-![photo-of-snorlax][snorlax]
-![photo-of-victreebel][victreebel]
-![photo-of-hitmonlee][hitmonlee]
-{: refdef}
-
-These are old trading cards from the 90s. I'm interested in any of the cards pictured above, but only the shiny or sparkly "holo" versions. It would be great to have a first edition, but this isn't essential, and I'd prefer a regular card in excellent condition to a first edition card in poor condition. The cards are probably easiest to find on ebay: try searching for the pokemon name with the words "holo" + either "fossil" or "jungle" depending on the small symbol near the bottom right of the pokemon image.
-
 #### Bandcamp
 
 Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card][bandcamp-gift-card-link] on their site then you can help me find and enjoy new music.
@@ -47,14 +36,6 @@ Frank and Oak is a Montréal-based clothing company. I like their clothes, but I
 
 Socks are always welcome, and I am partial to a pricey brand called Darn Tough. I'm a men's size medium, and my preferred sock style is micro crew. You can choose me a nice (but subtle) design and ship it to me from [their website][darn-tough-link].
 
-#### Keycaps
-
-I am a programmer with a very nerdy keyboard:
-
-![photo-of-keyboard][keyboard]
-
-Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make sure that they are PBT keycaps and OEM Profile. There is a list of online keycap sellers available [on reddit][keycaps-link]. Weird and colourful keycaps that do not necessarily depict letters are preferred! These Lord of the Rings keycaps (the hardcore versions) are not OEM profile but they both [look][dwarven-keycaps-link] [amazing][elven-keycaps-link].
-
 #### Cordless Vacuum
 
 I'd like a cordless stick vacuum. I mostly trust [The Wirecutter][wirecutter-cordless-vacuum-link] for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot][ryobi-link]—please get the model that comes with a charger.
@@ -66,17 +47,9 @@ I'm very picky about what I read, so trying to choose a book for me is probably 
 Thank you for being interested in buying me a present!
 
 [present]: {{"/assets/images/presents/present.webp" | absolute_url}}
-[snorlax]: {{"/assets/images/snorlax.jpg" | absolute_url}}
-[hitmonlee]: {{"/assets/images/hitmonlee.jpg" | absolute_url}}
-[victreebel]: {{"/assets/images/victreebel.jpg" | absolute_url}}
-[dragonite]: {{"/assets/images/dragonite.jpg" | absolute_url}}
 [camellia-sinensis-link]: https://camellia-sinensis.com/
 [bandcamp-gift-card-link]: https://bandcamp.com/gift_cards
 [darn-tough-link]: https://darntough.com/
 [frank-and-oak-link]: https://ca.frankandoak.com/products/egift-card
-[keyboard]: {{"/assets/images/uhk/uhk.jpg" | absolute_url}}
-[keycaps-link]: https://www.reddit.com/r/MechanicalKeyboards/wiki/keycapsellers/
 [wirecutter-cordless-vacuum-link]: https://www.nytimes.com/wirecutter/reviews/best-cordless-stick-vacuum
 [ryobi-link]: https://www.homedepot.ca/product/ryobi-18v-one-hp-brushless-cordless-stick-vacuum-kit-with-4-0-ah-hp-battery-and-charger/1001726800
-[dwarven-keycaps-link]: https://drop.com/buy/drop-the-lord-of-rings-mt3-dwarvish-keycap-set?defaultSelectionIds=968646
-[elven-keycaps-link]: https://drop.com/buy/drop-the-lord-of-the-rings-mt3-elvish-keycap-set?defaultSelectionIds=964666
