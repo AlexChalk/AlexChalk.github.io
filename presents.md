@@ -16,6 +16,17 @@ As I am notoriously difficult to buy presents for, I've decided to help you out 
 
 I love the Québec teahouse Camellia Sinensis. They will ship tea anywhere in Canada, so you can order me some tea on [their website][camellia-sinensis-link] and get it delivered to my address. Please steer clear of smoky varieties like Lapsang Souchong, but I'll drink any other tea you send me.
 
+#### Pokemon Holo Jungle/Fossil Cards
+
+{:refdef: style="text-align: center;"}
+![photo-of-dragonite][dragonite]
+![photo-of-snorlax][snorlax]
+![photo-of-victreebel][victreebel]
+![photo-of-hitmonlee][hitmonlee]
+{: refdef}
+
+These are old trading cards from the 90s. I'm interested in any of the cards pictured above, but only the shiny or sparkly "holo" versions. It would be great to have a first edition, but this isn't essential, and I'd prefer a regular card in excellent condition to a first edition card in poor condition. The cards are probably easiest to find on ebay: try searching for the pokemon name with the words "holo" + either "fossil" or "jungle" depending on the small symbol near the bottom right of the pokemon image.
+
 #### Bandcamp
 
 Bandcamp is my preferred choice for listening to music. You have to pay for records you listen to more than a few times (like in the old days), and the company commission on sales is means-tested, which means lesser-known artists receive almost all of the money you pay (and even successful artists keep >80%). If you buy me a [gift card][bandcamp-gift-card-link] on their site then you can help me find and enjoy new music.
@@ -48,20 +59,6 @@ Indulge my nerdiness by buying me some custom keycaps for my keyboard! Just make
 
 I'd like a cordless stick vacuum. I mostly trust [The Wirecutter][wirecutter-cordless-vacuum-link] for this sort of purchase, which means the model I'm after is the Ryobi 18V One+ HP (but check the link to make sure it's still recommended). It's sold exclusively via [Home Depot][ryobi-link]—please get the model that comes with a charger.
 
-#### Pokemon Holo Cards
-
-{:refdef: style="text-align: center;"}
-![photo-of-dragonite][dragonite]
-![photo-of-mew][mew]
-![photo-of-snorlax][snorlax]
-![photo-of-lapras][lapras]
-![photo-of-raichu][raichu]
-![photo-of-pidgeot][pidgeot]
-![photo-of-kangaskhan][kangaskhan]
-{: refdef}
-
-I'm interested in all of the cards pictured above, but only the shiny or sparkly "holo" versions. It would be nice to have a first edition, but this isn't essential, and I'd prefer a regular card in excellent condition to a first edition card in poor condition. The cards are probably easiest to find on ebay: try searching for the pokemon name with the words "holo" + either "promo," "fossil," or "jungle" depending on the small symbol near the bottom right of the pokemon image.
-
 #### Books
 
 I'm very picky about what I read, so trying to choose a book for me is probably not a good idea. However, if there is ever a book I'd like to receive, I'll add it to a list on this page.
@@ -69,12 +66,9 @@ I'm very picky about what I read, so trying to choose a book for me is probably 
 Thank you for being interested in buying me a present!
 
 [present]: {{"/assets/images/presents/present.webp" | absolute_url}}
-[mew]: {{"/assets/images/mew.jpg" | absolute_url}}
 [snorlax]: {{"/assets/images/snorlax.jpg" | absolute_url}}
-[raichu]: {{"/assets/images/raichu.jpg" | absolute_url}}
-[pidgeot]: {{"/assets/images/pidgeot.jpg" | absolute_url}}
-[lapras]: {{"/assets/images/lapras.jpg" | absolute_url}}
-[kangaskhan]: {{"/assets/images/kangaskhan.jpg" | absolute_url}}
+[hitmonlee]: {{"/assets/images/hitmonlee.jpg" | absolute_url}}
+[victreebel]: {{"/assets/images/victreebel.jpg" | absolute_url}}
 [dragonite]: {{"/assets/images/dragonite.jpg" | absolute_url}}
 [camellia-sinensis-link]: https://camellia-sinensis.com/
 [bandcamp-gift-card-link]: https://bandcamp.com/gift_cards
