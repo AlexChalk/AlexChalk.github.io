@@ -13,7 +13,7 @@ description: An entry-level explainer on how models like o1 and DeepSeek-R1 got 
 
 ### Introduction
 
-This post is a non-technical explanation of *reinforcement learning (RL)* and how it is used to train large language models (LLMs). Reinforcement learning is the key ingredient that differentiates AI models like o1 from earlier versions such as GPT-4. 
+This post is an explanation of *reinforcement learning (RL)* and how it is used to train large language models (LLMs). Reinforcement learning is the key ingredient that differentiates AI models like o1 from earlier versions such as GPT-4. 
 
 ### 0. Why is this important?
 
