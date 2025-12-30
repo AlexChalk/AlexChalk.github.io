@@ -10,7 +10,7 @@ I'm a graduate student, departmental scholar, Joubin-Selig Scholar, and Ontario 
 
 I received analytical training in philosophy at Oxford (First Class Honours), and I gained technical knowledge from five years working as a programmer at tech startups. I value effective communication and interdisciplinarity.
 
-I am fluent in Python, I have completed Part I of fast.ai's resources on [Practical Deep Learning](https://course.fast.ai/), and I'm now working through Part II. Once I've completed Part II, I should be able to implement cutting-edge machine learning research papers from scratch. I have also completed a previous iteration of [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) with Andrew Ng, and I've done a deep-dive into the transformer architectures used by large language models (LLMs) like ChatGPT. Finally, I have spent time with researchers at [Mila](https://mila.quebec/) (informally), and I remain in touch with the institution.
+I am fluent in Python, I have completed fast.ai's resources on [Practical Deep Learning](https://course.fast.ai/), and I've done a deep-dive into the transformer architectures used by large language models (LLMs) like ChatGPT. I have also spent time with researchers at [Mila](https://mila.quebec/) (informally), and I remain in touch with the institution.
 
 I am interested in improving communication between machine learning researchers and policymakers. For example, I suspect that both lack of understanding in current technical research and implications of the rate of progress in AI could be better communicated by researchers.
 
