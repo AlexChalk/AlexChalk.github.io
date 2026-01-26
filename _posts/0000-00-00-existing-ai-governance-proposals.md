@@ -11,7 +11,7 @@ author: alexchalk
 description: An introduction to AI Governance Proposals (as of February 2025)
 ---
 
-I compiled an introductory list of AI governance proposals while writing my master's thesis, and one of my supervisors found it a helpful introduction to the area, so I've decided to reproduce it here. Please note that this was originally written in February 2025, so any important proposals from after that date will be missing.
+I compiled an introductory list of AI governance proposals while writing my master's thesis, and one of my supervisors found it a helpful introduction to the area, so I've decided to reproduce it here. Please note that this was originally written in February 2025, so any important proposals from after that date will be missing. Please also note that as this was part of a thesis, it's written in academese. If that's not what you're looking to read, take a look at any of my other posts instead.
 
 ## Existing AI Governance Proposals
 
