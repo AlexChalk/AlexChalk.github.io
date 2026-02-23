@@ -77,4 +77,4 @@ All this remains true, but industry labs are now working to scale inference-time
 
 Model size constraints are just one among many technical challenges in interpretability research, but they are another illustration of how technical knowledge can be a prerequisite to understanding certain AI security concerns.
 
-*n.b. I made some edits to this post reflecting the updated views of the research community on AGI on Feb 22nd, 2026.*
+*n.b. This post was adapted from correspondence that took place in mid-2025. I made some edits reflecting the updated views of the research community on AGI on Feb 22nd, 2026.*
