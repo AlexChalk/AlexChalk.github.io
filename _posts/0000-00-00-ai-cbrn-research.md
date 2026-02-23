@@ -37,4 +37,4 @@ I referenced the above system card in my previous post; Section 7.2 documents CB
 
 I’ll just add one final gloss: given that (as the authors of paper #1 point out) the arrival of novel, potentially dangerous AI capabilities is very hard to predict, and the current rate of progress in AI development is astonishingly rapid (a good resource on the rate of AI progress is [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)), it is usually a very bad idea to view the limitations of today’s AI systems as fixed. I’ll include more details on this in a subsequent post.
 
-*n.b. I made some edits to this post reflecting the updated views of the research community on AGI on Feb 22nd, 2026.*
+*n.b. I made some edits to this post reflecting my updated views on Feb 22nd, 2026.*
