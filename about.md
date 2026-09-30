@@ -6,17 +6,17 @@ layout: page
 
 ### About Me
 
-I'm a graduate student, departmental scholar, Joubin-Selig Scholar, and Ontario Graduate Scholar in International Affairs at [Carleton](https://carleton.ca/npsia/). My goal is to contribute to government policy on AI.
+I'm a recent Master's graduate in International Affairs from [NPSIA, Carleton](https://carleton.ca/npsia/), where I was a departmental scholar, Joubin-Selig Scholar, and Ontario Graduate Scholar. My goal is to contribute to government policy on AI.
 
 I received analytical training in philosophy at Oxford (First Class Honours), and I gained technical knowledge from five years working as a programmer at tech startups. I value effective communication and interdisciplinarity.
 
 I am fluent in Python, I have completed fast.ai's resources on [Practical Deep Learning](https://course.fast.ai/), and I've done a deep-dive into the transformer architectures used by large language models (LLMs) like ChatGPT. I have also spent time with researchers at [Mila](https://mila.quebec/) (informally), and I remain in touch with the institution.
 
-I am interested in improving communication between machine learning researchers and policymakers. For example, I suspect that both lack of understanding in current technical research and implications of the rate of progress in AI could be better communicated by researchers.
+I am particularly interested in improving communication between machine learning researchers and policymakers. I believe professional translators offer a good model for doing this: they typically translate from a language they know well, but which is not their mother tongue, into the language that is their mother tongue. Similarly, I think machine learning researchers should work with at least one policy-literate colleague when talking to government, and that public officials should work with ML-research-literate policy analysts when talking to researchers.
 
-For policymakers, I believe that some grasp of how neural networks are trained is helpful to understand the ways they may not act as intended, and that this understanding is crucial to many, perhaps most, major decisions regarding AI that government will face. I also believe governments require sufficient technical know-how to critically assess researchers' opinions and to form their own conclusions.
+For policymakers in particular, I believe that some grasp of how neural networks are trained is helpful to understand the ways they may not act as intended, and that this understanding is crucial to many, perhaps most, major decisions regarding AI that government faces. I also believe governments require sufficient technical know-how to critically assess researchers' opinions and to form their own conclusions.
 
-I'm currently researching technical misconceptions/omissions in government materials on AI. I'm also interested in public policy that would prepare governments to act quickly in response to an AI-related crisis.
+My Master's research focussed on technical misconceptions/omissions in government materials on AI, and on how governments could prepare to act quickly in response to an AI-related crisis.
 
 If in doubt, please send me a message.
 
