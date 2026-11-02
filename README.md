@@ -10,4 +10,5 @@ To run:
 To update from upstream:
 - `git merge --no-ff upstream/gh-pages`
 
-nix-shell --run 'bundle exec jekyll serve --config _config.yml,_config-dev.yml'
+Update deps: nix-shell -p bundler bundix --run 'bundle lock --update && bundix'
+Local build: nix-shell --run 'bundle exec jekyll serve --config _config.yml,_config-dev.yml'

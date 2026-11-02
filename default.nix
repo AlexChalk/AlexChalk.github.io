@@ -9,4 +9,5 @@ in
 pkgs.stdenv.mkDerivation {
   name = "homepage";
   buildInputs = [ gems gems.wrappedRuby ];
+  GEM_PATH = "${gems}/${gems.ruby.gemPath}";
 }
